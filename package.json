@@ -4,7 +4,7 @@
   "description": "detects language of text provided",
   "main": "api.js",
   "scripts": {
-    "test": "node api.js word_to_test"
+    "test": "none //node api.js word_to_test"
   },
   "repository": {
     "type": "git",
