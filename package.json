@@ -1,0 +1,19 @@
+{
+  "name": "detect_language",
+  "version": "1.0.0",
+  "description": "detects language of text provided",
+  "main": "api.js",
+  "scripts": {
+    "test": "node api.js word_to_test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/babadee30/HttpApiCall.git"
+  },
+  "author": "oyedele temidayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babadee30/HttpApiCall/issues"
+  },
+  "homepage": "https://github.com/babadee30/HttpApiCall#readme"
+}
